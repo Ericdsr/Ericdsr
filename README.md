@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -24,16 +20,16 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=dasilvarochaeric@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-<a href="https : //mw.linkedin.com/in/eric-da-silva-rocha/" target=">
-<img src="https://img.shie1ds.io/static/v1?message—LinkedIn&10go—1inkedin&1abe1—&c010r—Oê77BS&IogoC010r—white&Iabe1C010r—&sty1e—for-the-badge" height="3S">
-</a>
 </div>
 
 ###
 
-<br clear="both">
+<p align="left">Discord :  Ericc#5196<br>Linkedin : https://www.linkedin.com/in/eric-da-silva-rocha/<br>Gmail : dasilvarochaeric@gmail.com</p>
 
+###
+
+<div align="center">
+  <img height="150" src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif"  />
+</div>
 
 ###
