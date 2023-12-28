@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Discord :  Ericc#5196<br>Linkedin : https://www.linkedin.com/in/eric-da-silva-rocha/<br>Gmail : dasilvarochaeric@gmail.com</p>
+<p align="left">Discord :  ericc62<br>Linkedin : https://www.linkedin.com/in/eric-da-silva-rocha/<br>Gmail : dasilvarochaeric@gmail.com</p>
 
 ###
 
